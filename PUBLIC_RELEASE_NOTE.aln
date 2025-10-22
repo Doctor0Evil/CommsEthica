@@ -1,0 +1,61 @@
+```
+Filename: PUBLIC_RELEASE_NOTE.aln
+Destination Path: /repo-root/publication/PUBLIC_RELEASE_NOTE.aln
+Provenance Hash: sha256:REPLACE_WITH_GENERATED_HASH
+Redaction Summary: none
+Compliance Gate Status: passed
+```
+
+***
+# CommsEthica Public Release Note
+
+**Release Version:** v1.0  
+**Release Date:** 2025-10-22  
+**Maintainer:** Perplexity Labs Inc.
+
+***
+
+## Contents
+
+This release includes only **public-safe, non-sensitive** artifacts, compliant with the ethics, safety, and provenance requirements set forth in ETHICS_GUIDE.aln and SAFETY_STANDARDS.md.  
+No private telemetry, production credentials, raw datasets, or proprietary code have been included.
+
+***
+
+## Redactions Summary
+
+- **No redactions made in this release.**  
+- All included files are safe for public viewing and audit.
+- Any future redacted fields will be documented here with reason and description.
+
+***
+
+## Requesting Deeper Access
+
+For artifacts, data, or specification fields not present in the public release, follow these steps:
+
+1. **Submit a request via email** to [compliance@your-org.example](mailto:compliance@your-org.example), specifying needed access, context, and intended use.
+2. Provide requisite legal and technical prerequisites as described in `/docs/ETHICS_GUIDE.aln`.
+3. Allow for compliance review, provenance checks, and explicit consent tracking before access.
+
+***
+
+## Audit Assurance
+
+- All files in this repository include artifact headers with provenance hashes and compliance status.
+- A full evidence vault and deterministic snapshots are maintained and auditable offline.
+- Human-in-the-loop checkpoints are active for any action that may affect public safety or compliance visibility.
+
+***
+
+## Incident Response
+
+- Any vulnerability, disclosure, or evidence of unsafe artifact publication will follow the staged notification protocol in `/playbooks/ESCALATION_MATRIX.aln`.
+- Forensic preservation, rollback procedures, and public notification matrices are in place.
+
+***
+
+**CommsEthica** is committed to transparent release, continuous compliance, and open public trust.  
+All artifacts are machine-checked and human-audited prior to publication.
+
+---
